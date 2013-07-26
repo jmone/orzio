@@ -38,4 +38,5 @@
             <div class=""></div>
         </div>
     </body>
+    <script type="text/javascript" src="msg.js"></script>
 </html>
